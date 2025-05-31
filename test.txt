@@ -1,0 +1,48 @@
+3
+INT
+1 2 3
+4 5 6
+7 8 9
+multiply
+3
+INT
+9 8 7
+6 5 4
+3 2 1
+result_multiply_int.txt
+2
+DOUBLE
+1.1 2.2
+3.3 4.4
+transpose
+result_transpose_double.txt
+2
+COMPLEX
+1.0,2.0 3.0,4.0
+5.0,6.0 7.0,8.0
+transpose
+result_transpose_complex.txt
+2
+DOUBLE
+1.0 2.0
+3.0 4.0
+scalarMultiply
+2.0
+result_scalar_multiply_double.txt
+2
+COMPLEX
+1.0,2.0 3.0,4.0
+5.0,6.0 7.0,8.0
+multiply
+2
+COMPLEX
+9.0,8.0 7.0,6.0
+5.0,4.0 3.0,2.0
+result_multiply_complex.txt
+2
+COMPLEX
+1.0,2.0 3.0,4.0
+5.0,6.0 7.0,8.0
+scalarMultiply
+2.0
+result_scalar_multiply_complex.txt
